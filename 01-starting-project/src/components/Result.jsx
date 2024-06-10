@@ -12,7 +12,7 @@ return <table id='result'>
 <thead>
     <tr>
         <th>Year</th>
-        <th>Investment Value</th>
+        <th>Investment Ve</th>
         <th>Interst (year)</th>
         <th>Total  Interest</th>
         <th>Invested Capital</th>
