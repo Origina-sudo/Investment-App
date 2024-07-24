@@ -10,7 +10,7 @@ This is a single-page React application that allows users to calculate their inv
 
 ## Demo
 
-You can see the live demo https://github.com/Origina-sudo/Investment-App.git
+![Screenshot of my game](https://github.com/Origina-sudo/Investment-App/blob/main/01-starting-project/src/assets/Screenshot%202024-07-24%20191356.png)
 
 ## Features
 
