@@ -14,7 +14,6 @@ export default function UserInput({onChange,userInput}){
           value={userInput.initialInvestment} onChange={(event)=>onChange(
             "initialInvestment",
               event.target.value
-             
           )}/>
           </p> 
           <p>
