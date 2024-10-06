@@ -7,7 +7,6 @@ export default function UserInput({onChange,userInput}){
 
     return (
         <section id="user-input">
-            
         <div className="input-group">
             <p>
           <label htmlFor="">Initial Investment</label>
